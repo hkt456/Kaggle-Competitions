@@ -2,8 +2,8 @@
 >Link to the [Competition](https://www.kaggle.com/competitions/titanic)
 
 ## Resutls 
-- Score: NULL
-- Ranking: NULL
-- Date: NULL
+- Score: 0.77511
+- Ranking: 9821
+- Date: 1/5/2023
 ## Description
-- NULL  
+- Fun competition with good tutorial haha
